@@ -1,7 +1,7 @@
 export default {
   providers:[
     {
-      domain:'https://equal-moth-69.clerk.accounts.dev',
+      domain:'https://exact-pug-43.clerk.accounts.dev',
       applicationID:"convex", 
     }
   ]
